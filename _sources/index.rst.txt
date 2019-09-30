@@ -6,6 +6,16 @@
 Erste Schritte mit LaTeX
 ========================
 
+
+:First things first::
+  .. math::
+    e^{i \pi} + 1 = 0
+
+
+.. note::
+  Diese Seite befindet sich zurzeit im Aufbau.
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
